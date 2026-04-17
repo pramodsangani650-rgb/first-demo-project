@@ -1,2 +1,3 @@
 # first-demo-project
-my first basic demo project for a new repo
+my first basic demo project that is creating my first repository
+author-pramod varma
